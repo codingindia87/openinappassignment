@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="click_image_padding">5dp</dimen>
+
+    <dimen name="action_bar_height">55dp</dimen>
+
+    <dimen name="screen_padding">10dp</dimen>
+
+    <dimen name="card_corner_radius">8dp</dimen>
+
+    <dimen name="icon_size">36dp</dimen>
+
+    <dimen name="item_card_size">140dp</dimen>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">OpeninApp Assignment</string>
+
+    <!--    main bottom navigation menus icon tittles-->
+    <string name="links">Links</string>
+    <string name="courses">Courses</string>
+    <string name="campaigns">Campaigns</string>
+    <string name="Profile">Profile</string>
+    <string name="add">Add</string>
+
+    <!--    Link fragment-->
+    <string name="dashboard">Dashboard</string>
+    <string name="good_morning">Good morning</string>
+    <string name="greet_text">Hi, Sachin Vishwakarma</string>
+    <string name="overview">Overview</string>
+    <string name="today_s_click">Today\'s Click</string>
+    <string name="top_location">Top Location</string>
+    <string name="top_source">Top Source</string>
+    <string name="total_links">Total Links</string>
+    <string name="talk_with_us">Talk With Us</string>
+    <string name="frequently_asked_questions">Frequently Asked Questions</string>
+    <string name="view_all_links">View All Links</string>
+    <string name="recent_link">Recent Link</string>
+    <string name="top_links">Top Links</string>
+    <string name="total_clicks">Total Clicks</string>
+    <string name="view_analytics">View Analytics</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="extra_income">Extra Income</string>
+
+</resources>

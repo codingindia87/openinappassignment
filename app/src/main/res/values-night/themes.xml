@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OpeninAppAssignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/primary_color</item>
+
+        <item name="android:fontFamily">@font/my_app_font</item>
+
+        <item name="colorAccent">@color/primary_color</item>
+
+
+    </style>
+</resources>
